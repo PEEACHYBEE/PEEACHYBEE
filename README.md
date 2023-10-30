@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-💁 Freskkie Encarnacion
-🏢 Studying at Saint Louis University 
-🌱 I’m currently learning Java programming 
-⚡ Fun fact: Didn't expect myself to be a programmer ツ
+- 💁 Freskkie Encarnacion
+- 🏢 Studying at Saint Louis University 
+- 🌱 I’m currently learning Java programming 
+- ⚡ Fun fact: Didn't expect myself to be a programmer ツ
 <!--
 **PEEACHYBEE/PEEACHYBEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
