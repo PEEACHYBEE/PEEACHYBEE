@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💁 Freskkie Encarnacion
+- 💁 Hi I'm Freskkie Encarnacion (@freskkie.e)
 - 🏢 Studying at Saint Louis University 
 - 🌱 I’m currently learning Java programming 
 - ⚡ Fun fact: Didn't expect myself to be a programmer ツ
