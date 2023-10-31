@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.comcolor=%2349F707&lines=I'm+Freskkie+Encarnacion%C3%B1as%2C+19+years+old;Information+Technology+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Freskkie+Encarnacion;19+Years+Old;Information+Technology+Student)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning Java programming 
 - ⚡ Fun fact: Didn't expect myself to be a programmer ツ
