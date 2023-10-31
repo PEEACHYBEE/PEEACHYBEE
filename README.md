@@ -5,4 +5,4 @@
 
 ### Reach me: 
 <a href="mailto: fresenc112233@gmail.com">
-<img src="https://img.shields.io/badge/-fresenc112233%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com/freskkie.e/">   <img src="https://img.shields.io/badge/@freskkie.e-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/ma-earl-freskkie-encarnacion/"><img src="https://img.shields.io/badge/maearlfreskkieencarnacion-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
+<img src="https://img.shields.io/badge/-fresenc112233%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com/freskkie.e/">   <img src="https://img.shields.io/badge/@freskkie.e-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/ma-earl-freskkie-encarnacion-31429024a/"><img src="https://img.shields.io/badge/maearlfreskkieencarnacion-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
