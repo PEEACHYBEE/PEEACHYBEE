@@ -13,3 +13,8 @@
 <a href="">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PEEACHYBEE&theme=material-palenight"/>
 </a>
+
+<img
+  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
+  alt="Avinal WakaTime Activity"
+/>
