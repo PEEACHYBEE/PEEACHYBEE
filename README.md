@@ -1,5 +1,5 @@
 <p align="center">
-Hi 👋, I'm Freskkie, a 4th year student in **Saint Louis Univeristy**
+Hi 👋, I'm Freskkie, a 4th year student in <b>Saint Louis Univeristy</b>
 </p>
 
 <p align="center">
