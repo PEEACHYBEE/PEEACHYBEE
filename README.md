@@ -1,5 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I'm+Freskkie+Encarnacion,+19;Saint+Louis+University,+Baguio;Information+Technology+Student)](https://git.io/typing-svg)
+<p align="center">
+Hi 👋, I'm Freskkie, a 4th year student in **Saint Louis Univeristy**
+</p>
 
-### ✯ Reach me 
-<a href="mailto: fresenc112233@gmail.com">
-<img src="https://img.shields.io/badge/-fresenc112233%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com/freskkie.e/">   <img src="https://img.shields.io/badge/@freskkie.e-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/freskkie-encarnacion-31429024a/"><img src="https://img.shields.io/badge/freskkie encarnacion-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
+<p align="center">
+  <a href="peeachybee.github.io/Portfolio/">Portfolio</a> -
+  <a href="https://www.linkedin.com/in/freskkie-encarnacion-31429024a/">LinkedIn</a>
+</p>
